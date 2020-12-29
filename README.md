@@ -8,7 +8,7 @@ CNN:
 
 Known layers:
 
-1. (input)convolutional:
+1. (input)convolution:
 2. pooling:
 3. activation: Travis Quigg
 4. Output Layer:
