@@ -5,7 +5,7 @@ Decisions:
 *Build from scratch
 
 Goal:
-Essentially we want to combine image recognition with language generation to create a machine that can pass a turing test. If we come to a point where we have to use paid services, we will pivot to money making practices to further fund the ongoing research.
+Essentially we want to combine image recognition with language generation to create a machine that can pass a turing test. If we come to a point where we have to use paid services, we will pivot to money making practices to further fund the ongoing research. When we start producing results I or Alex or both will look into funding options.
 
 tasks:
 
