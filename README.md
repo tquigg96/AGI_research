@@ -1,4 +1,6 @@
 # AGI_research
+Decisions:
+*Build from scratch
 
 tasks:
 
@@ -21,11 +23,6 @@ RNN:
 2. How many layers do we need for a RNN?
 
 VOTING:
-Info: To cast a vote right down your name nad say yay or nay. For open ended discussion type in your suggestion and make a poll.
 
-Build it from scratch?
-
-
-
-If not what library should we use?
+voting = undefined
 
