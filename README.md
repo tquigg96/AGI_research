@@ -29,5 +29,5 @@ RNN:
 
 VOTING:
 
-voting = undefined
+What propagation should we use for our nerual net?
 
